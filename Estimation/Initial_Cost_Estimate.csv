@@ -1,0 +1,16 @@
+﻿Estimate summary,,,,,,,,,
+Upfront cost,Monthly cost,Total 12 months cost,Currency,,,,,,
+0,8288.010000000002,99456.12,USD,,,,,,
+,,* Includes upfront cost,,,,,,,
+Detailed Estimate,,,,,,,,,
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Status,Configuration summary
+My Estimate,US East (N. Virginia),,"Amazon EC2 ",0,3145.44,37745.28,USD,,"Tenancy (Shared Instances), Operating system (Linux), Workload (Consistent, Number of instances: 8), Advance EC2 instance (m5a.2xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (enabled), EBS Storage amount (1 TB), DT Inbound: Not selected (0 TB per month), DT Outbound: Internet (2 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon RDS for PostgreSQL,0,4472.94,53675.28,USD,,"Storage volume (General Purpose SSD (gp2)), Storage amount (10 TB), Nodes (1), Instance Type (db.m5.2xlarge), Utilization (On-Demand only) (100 %Utilized/Month), Deployment Option (Multi-AZ), Pricing Model (OnDemand), Cost for one month of retention (per vCPU per month) (1.5000000000), Cost for each additional month of retention (per vCPU per month) (0.0631000000), Cost for total retention (per vCPU per month) (2.19), Additional backup storage (10 TB), Total Size of Backup Processed for Export (GB) (30 per month)"
+My Estimate,US East (N. Virginia),,S3 Standard,0,120.52,1446.24,USD,,"S3 Standard storage (5 TB per month), Data returned by S3 Select (1 TB per month), Data scanned by S3 Select (1 TB per month)"
+My Estimate,US East (N. Virginia),,Data Transfer,0,92.16,1105.92,USD,,"DT Inbound: Not selected (0 TB per month), DT Outbound: Internet (1 TB per month)"
+My Estimate,US East (N. Virginia),,Application Load Balancer,0,114.77000000000001,1377.24,USD,,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),,VPN Connection,0,54.75,657.00,USD,,"Working days per month (22), Number of Site-to-Site VPN Connections (2), Number of subnet associations ()"
+My Estimate,US East (N. Virginia),,Network Address Translation (NAT) Gateway,0,78.93,947.16,USD,,Number of NAT Gateways (1)
+My Estimate,US East (N. Virginia),,Amazon Route 53,0,208.5,2502.00,USD,,"Hosted Zones (2), Number of Elastic Network Interfaces (2), Basic Checks Within AWS (100)"
+,,,Total,,8288.01,99456.12,USD,,
+,,,,,,,,,
